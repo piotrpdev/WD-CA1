@@ -26,9 +26,11 @@ nav > a {
 
   margin-bottom: 15px;
 
-  color: antiquewhite;
-
   font-family: 'Consolas', monospace;
+}
+
+nav > a:link {
+  color: antiquewhite;
 }
 
 nav > a:visited {
